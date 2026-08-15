@@ -1,2 +1,2 @@
-# hunt16-forksrc
-L-16-fromfork source (safe to break)
+# brkd-h1-org/hunt16-forked
+from-fork lab. Safe to break.
